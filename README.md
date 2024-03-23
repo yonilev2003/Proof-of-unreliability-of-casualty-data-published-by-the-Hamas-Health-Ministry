@@ -1,4 +1,4 @@
-# Prooving Illegitimacy of Gaza Casualties Numbers
+# Proof of Unreliability of Casualty Data Published by Hamas Health Ministry
 
 <h1 align="center">Hi 👋, I'm Yonathan</h1>
 <h3 align="center">A passionate self-made data scientist from Israel</h3>
